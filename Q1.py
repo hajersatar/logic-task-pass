@@ -1,4 +1,0 @@
-username = input("Choose a username: ")
-final_username = username.replace("e", "i")
-
-print("Your username is: " + final_username)
